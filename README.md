@@ -1,0 +1,1 @@
+The Weather App is a simple web application that fetches real-time weather data using an API key. It displays the user's current location, temperature, and weather conditions using HTML, CSS, and JavaScript.
